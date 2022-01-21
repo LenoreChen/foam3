@@ -512,6 +512,7 @@ FOAM_FILES([
   { name: "foam/nanos/ruler/predicate/IsInstancePredicate" },
   { name: "foam/nanos/ruler/predicate/PropertyIsInstance" },
   { name: "foam/nanos/ruler/predicate/PropertyIsClass" },
+  { name: "foam/nanos/ruler/predicate/PropertyImplements" },
   { name: "foam/nanos/ruler/predicate/ContextContainsPredicate" },
   { name: "foam/nanos/ruler/predicate/PropertyIsSetPredicate" },
   { name: "foam/nanos/ruler/action/AbstractCheckDAOforMatching" },
